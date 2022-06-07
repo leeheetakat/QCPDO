@@ -1,6 +1,6 @@
 #!/bin/bash
 DOCKER="/usr/bin/docker" #Please modify to docker path for your desktop
-IMAGE_NAME="sequenza_hl:version8"
+IMAGE_NAME="leeheetak/sequenza_hl:latest"
 TARGET_VOLUME="/mnt" #in docker virtual machine
 HOST_VOLUME="/home" #your local directory
 

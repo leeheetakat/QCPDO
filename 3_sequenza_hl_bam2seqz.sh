@@ -1,6 +1,6 @@
 #!/bin/bash
 DOCKER="sudo /usr/bin/docker" #Please modify to docker path for your desktop
-IMAGE_NAME="sequenza_hl:version7"
+IMAGE_NAME="leeheetak/sequenza_hl:latest"
 TARGET_VOLUME="/mnt"
 HOST_VOLUME="/home" 
 
